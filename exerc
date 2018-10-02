@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<html lang="en-US">
+
+
+<head>
+  <title>My First HTML</title>
+  <meta charset="UTF-8">
+</head>
+
+<body>
+
+<h1 style="font-size:40px;">Heading 1</h1>
+
+<h2 title="I'm a tooltip">HTML Images</h2>
+<p title="I'm a tooltip">
+This is a paragraph.
+</p>
+
+<p style="color:red">HTML images are defined with the img tag:</p>
+
+<button><img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142"></button>
+<button>Click me</button>
+<ul>
+  <li style="color:red">"Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
+
+<hr>
+<h2>This is heading 2</h2>
+<p>This is some other text.</p>
+<hr>
+
+<img src="img_typo.jpg" alt="Girl with a jacket">
+<img src="img_girl.jpg" alt="Girl with a jacket">
+
+</body>
+</html>
